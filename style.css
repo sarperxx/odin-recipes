@@ -1,0 +1,30 @@
+body {
+    font-family: Poppins, sans-serif;
+    background: rgba(176, 252, 195, 0.3);
+}
+
+ul li{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul li span:hover{
+    color: white;
+    background-color:lightseagreen;
+}
+
+a{
+    color:black; 
+}
+img{
+    height: 300px;
+    width: auto;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}

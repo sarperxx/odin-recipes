@@ -1,0 +1,16 @@
+#lasagna{
+    width: auto;
+    height: 300px;
+}
+
+body{
+    font-family: Poppins, sans-serif;
+    background: rgba(176, 252, 195, 0.3);
+}
+ul li{
+    font-size: small;
+}
+
+ol li{
+    font-size: small;
+}
